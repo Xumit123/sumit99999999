@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "ARIF-BABU",
-    "PREFIX": "#",
+    "BOTNAME": "Patli kamriya",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "61565989891533"
+        "61567311426429"
     ],
     "NDH": [
-        "61565989891533"
+        "61567311426429"
     ],
     "DATABASE": {
         "sqlite": {
