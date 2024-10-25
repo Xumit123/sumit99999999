@@ -1,11 +1,11 @@
 module.exports.config = {
-  name: "girlbestidp",
+  name: "frendsdp",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "PREM BABU",
-  description: " bestigirl dp",
+  description: " friends dp",
   commandCategory: "Random-IMG",
-  usages: "bestigirldp",
+  usages: "friends dp",
   cooldowns: 2,
   dependencies: {
     "request":"",
